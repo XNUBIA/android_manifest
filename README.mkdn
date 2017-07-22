@@ -1,4 +1,4 @@
-XNUBIA(In future)
+XNUBIA UI
 ===========
 
 Getting Started
