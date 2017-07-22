@@ -42,18 +42,18 @@
   <project name="android_hardware_qcom_keymaster" path="hardware/qcom/keymaster" remote="xnubia-project" />
   <project name="android_hardware_qcom_wlan" path="hardware/qcom/wlan-caf" remote="xnubia-project" />
   <project name="android_hardware_ril" path="hardware/ril-caf" remote="xnubia-project" />
-  <project name="android_packages_apps_Bluetooth" path="packages/apps/Bluetooth" remote="xnubia-project" />
-  <project name="android_packages_apps_Dialer" path="packages/apps/Dialer" remote="xnubia-project" />
-  <project name="android_packages_apps_Settings" path="packages/apps/Settings" remote="xnubia-project" />
-  <project name="android_packages_providers_MediaProvider" path="packages/providers/MediaProvider" remote="xnubia-project" />
-  <project name="android_packages_services_Telephony" path="packages/services/Telephony" remote="xnubia-project" />
-  <project name="android_system_bt" path="system/bt" remote="xnubia-project" />
-  <project name="android_system_core" path="system/core" remote="xnubia-project" />
-  <project name="android_system_extras" path="system/extras" remote="xnubia-project" />
-  <project name="android_system_media" path="system/media" remote="xnubia-project" />
-  <project name="android_system_netd" path="system/netd" remote="xnubia-project" />
-  <project name="android_system_qcom" path="vendor/qcom/opensource/softap" remote="xnubia-project" />
-  <project name="android_system_sepolicy" path="system/sepolicy" remote="xnubia-project" />
-  <project name="android_system_vold" path="system/vold" remote="xnubia-project" />
-  <project name="android_vendor_qcom-opensource_fm" path="vendor/qcom/opensource/fm" remote="xnubia-project" />
+  <project name="android_packages_apps_Bluetooth" path="packages/apps/Bluetooth" remote="touchwiz" />
+  <project name="android_packages_apps_Dialer" path="packages/apps/Dialer" remote="touchwiz" />
+  <project name="android_packages_apps_Settings" path="packages/apps/Settings" remote="touchwiz" />
+  <project name="android_packages_providers_MediaProvider" path="packages/providers/MediaProvider" remote="touchwiz" />
+  <project name="android_packages_services_Telephony" path="packages/services/Telephony" remote="touchwiz" />
+  <project name="android_system_bt" path="system/bt" remote="touchwiz" />
+  <project name="android_system_core" path="system/core" remote="touchwiz" />
+  <project name="android_system_extras" path="system/extras" remote="touchwiz" />
+  <project name="android_system_media" path="system/media" remote="touchwiz" />
+  <project name="android_system_netd" path="system/netd" remote="touchwiz" />
+  <project name="android_system_qcom" path="vendor/qcom/opensource/softap" remote="touchwiz" />
+  <project name="android_system_sepolicy" path="system/sepolicy" remote="touchwiz" />
+  <project name="android_system_vold" path="system/vold" remote="touchwiz" />
+  <project name="android_vendor_qcom-opensource_fm" path="vendor/qcom/opensource/fm" remote="touchwiz" />
 </manifest>

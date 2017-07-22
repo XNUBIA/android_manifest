@@ -9,6 +9,10 @@
            fetch="https://github.com/xnubia-project"
            revision="refs/heads/xnubia-7.1" />
 
+  <remote  name="touchwiz"
+           fetch="https://github.com/TouchWiz"
+           revision="refs/heads/n" />
+
   <remote  name="versusx"
            fetch="https://github.com/versusx"
            revision="refs/heads/n" />
